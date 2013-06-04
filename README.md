@@ -1,3 +1,3 @@
-# 推荐系统开源数据
+# 推荐系统开源书籍
 
 - 在线阅读[readthedoc](https://recommenderbook.readthedocs.org/)
